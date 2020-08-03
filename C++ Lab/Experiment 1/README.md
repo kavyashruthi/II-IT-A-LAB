@@ -10,5 +10,7 @@ To Display the names and roll nubers of students
 4.
 
 Output obtained
-![output](imaage.jfif)
+
+
+![output](boxes.jpg)
 
