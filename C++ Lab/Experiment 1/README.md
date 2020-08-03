@@ -8,3 +8,7 @@ To Display the names and roll nubers of students
 2.
 3.
 4.
+
+Output obtained
+![output](imaage.jfif)
+
